@@ -1,0 +1,17 @@
+C:\Users\Виктория\Desktop\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Виктория\Desktop\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Виктория\Desktop\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Виктория\Desktop\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Desktop\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\Виктория\Desktop\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Виктория\Desktop\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+C:\Users\Виктория\Desktop\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Виктория\Desktop\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+F:\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+F:\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+F:\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+F:\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+F:\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+F:\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+F:\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+F:\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
